@@ -16,7 +16,4 @@ title = "Home"
   image = "img/kaw0ruprofilepicture.jpg"
   headline = "AI sloppers"
   bio = "AI sloppers"
-  links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+  links = []

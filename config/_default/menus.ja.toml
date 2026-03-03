@@ -57,23 +57,11 @@
 #  pageRef = "pagTest"
 #  weight = 1000
 
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
-
 #[[main]]
 #  identifier = "mastodon"
 #  pre = "mastodon"
 #  weight = 300
 #  url = "https://masto.ai/@blowfish"
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 400
 
 
 # -- フッターメニュー --
