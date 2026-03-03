@@ -1,0 +1,22 @@
+languageCode = "fr"
+languageName = "Français"
+weight = 2
+title = "Home"
+
+[params]
+  displayName = "Français"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 janvier 2006"
+  logo = ""
+  description = "AI sloppers"
+
+[params.author]
+  name = "Kaw0ru"
+  image = "img/kaw0ruprofilepicture.jpg"
+  headline = "AI sloppers"
+  bio = "AI sloppers"
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]

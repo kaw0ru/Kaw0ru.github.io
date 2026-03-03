@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = ""
+  description = "AI sloppers"
+
+[params.author]
+  name = "Kaw0ru"
+  email = "nuno@n9o.xyz"
+  image = "img/kaw0ruprofilepicture.jpg"
+  headline = "AI sloppers"
+  bio = "AI sloppers"
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
