@@ -3,8 +3,7 @@ title: "ARA 7 Finals Write UP"
 slug: "ara-7-finals-writeup"
 date: 2026-03-03T21:42:36+07:00
 draft: false
-tags: ["ctf", "writeup", "cryptography", "ara7", "finals"]
-categories: ["CTF", "Cryptography"]
+tags: ["CTF", "Cryptography", "Finals"]
 author: "Ariq Ardian"
 featureimage: "https://wallpapercave.com/wp/wp10095326.jpg"
 params:
